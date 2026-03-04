@@ -80,3 +80,8 @@
 .bd-mode-toggle .dropdown-menu .active .bi {
   display: block !important;
 }
+
+.custom-gutter {
+  column-gap: 10rem; /* horizontal */
+  row-gap: 1rem;    /* vertical */
+}
